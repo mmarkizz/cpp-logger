@@ -4,3 +4,4 @@ obj/
 *.so
 *.log
 log.txt
+.vs/
